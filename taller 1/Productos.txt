@@ -1,0 +1,3 @@
+Apple,iPhone 11,500000,iPhone XR,310000,iPhone X,290000
+Samsung,Galaxy S21,400000,Galaxy A23,290000,Galaxy S9,200000
+Huawei,Huawei P40,380000,Huawei P30,200000,Huawei Y9s,160000
